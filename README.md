@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Tekwe Edrick 👋
 
-<!--
-**edricktekwe/edricktekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Software Engineer 🚀
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineering student passionate about building
+software, solving problems, and continuously developing my
+technical skills.
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Passionate about software development
+- 🌱 Currently learning and building projects
+- 🧠 Interested in problem solving and system development
+- 🚀 Working toward becoming a professional software engineer
+- 🤝 Open to learning, collaboration, and new opportunities
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- Java
+- JavaScript
+- C
+- C++
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📌 Featured Projects
+
+I'm currently building projects to strengthen my
+software engineering skills. Check back soon for
+my featured projects.
+
+## 🎯 Current Goals
+
+- Build real-world software applications
+- Improve my data structures and algorithms skills
+- Become a strong full-stack developer
+- Contribute to open-source projects
+- Gain professional software engineering experience
+
+## 📫 Connect With Me
+
+- GitHub: [@edricktekwe](https://github.com/edricktekwe)
+
+---
+
+⭐ Thanks for visiting my profile!
